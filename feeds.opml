@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>RSS Feeds</title>
+    </head>
+    <body>
+        <outline text="IT Security" title="IT Security">
+            <outline type="rss" text="IT Security - Hot Weekly Questions" title="IT Security - Hot Weekly Questions" xmlUrl="http://security.stackexchange.com/feeds/week" htmlUrl="http://security.stackexchange.com/questions"/>
+            <outline type="rss" text="Ars Technica » Risk Assessment" title="Ars Technica » Risk Assessment" xmlUrl="http://feeds.arstechnica.com/arstechnica/security" htmlUrl="http://arstechnica.com"/>
+            <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed" htmlUrl="http://krebsonsecurity.com"/>
+            <outline type="rss" text="Techquickie (uploads) on YouTube" title="Techquickie (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/Techquickie/uploads?v=2&amp;orderby=updated&amp;client=ytapi-youtube-rss-redirect&amp;alt=rss" htmlUrl="https://youtube.com/playlist?list=UU0vBXGSyV14uvJ4hECDOl0Q"/>
+            <outline type="rss" text="SecurityTube.Net" title="SecurityTube.Net" xmlUrl="http://feeds2.feedburner.com/SecurityTube" htmlUrl="http://www.securitytube.net"/>
+        </outline>
+    </body>
+</opml>
+
