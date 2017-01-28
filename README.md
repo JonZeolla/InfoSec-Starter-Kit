@@ -3,9 +3,9 @@ I frequently get asked to provide some materials to get someone started who want
 
 ## Getting Started
 1. Set up an account on an RSS reader of your choice (I suggest [feedly](https://feedly.com/)).
-  1. Download and import [feeds.opml](./feeds.opml) and read all the articles.
+  1. Download and import [feeds.opml](https://raw.githubusercontent.com/jonzeolla/infosec-starter-kit/master/feeds.opml) and read all the articles.
 1. Setup a podcast app ([iTunes](http://www.apple.com/itunes/podcasts/), [Pocket Casts](https://play.pocketcasts.com/), etc.).
-  1. Download and import [podcasts.opml](./podcasts.opml).  Set them all to automatically download (I suggest restricting this to only while on WiFi).
+  1. Download and import [podcasts.opml](https://raw.githubusercontent.com/jonzeolla/infosec-starter-kit/master/podcasts.opml).  Set them all to automatically download (I suggest restricting this to only while on WiFi).
 
 ## Protips
 * Read.  A lot.  Look up up anything you don't understand while you're reading.
