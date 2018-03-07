@@ -7,10 +7,10 @@
     <body>
         <outline text="IT Security" title="IT Security">
             <outline type="rss" text="IT Security - Hot Weekly Questions" title="IT Security - Hot Weekly Questions" xmlUrl="http://security.stackexchange.com/feeds/week" htmlUrl="http://security.stackexchange.com/questions"/>
+	    <outline type="rss" text="/r/netsec - Information Security News &amp;amp; Discussion" title="/r/netsec - Information Security News &amp;amp; Discussion" xmlUrl="http://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/"/>
             <outline type="rss" text="Ars Technica » Risk Assessment" title="Ars Technica » Risk Assessment" xmlUrl="http://feeds.arstechnica.com/arstechnica/security" htmlUrl="http://arstechnica.com"/>
             <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed" htmlUrl="http://krebsonsecurity.com"/>
-            <outline type="rss" text="Techquickie (uploads) on YouTube" title="Techquickie (uploads) on YouTube" xmlUrl="http://gdata.youtube.com/feeds/base/users/Techquickie/uploads?v=2&amp;orderby=updated&amp;client=ytapi-youtube-rss-redirect&amp;alt=rss" htmlUrl="https://youtube.com/playlist?list=UU0vBXGSyV14uvJ4hECDOl0Q"/>
-            <outline type="rss" text="SecurityTube.Net" title="SecurityTube.Net" xmlUrl="http://feeds2.feedburner.com/SecurityTube" htmlUrl="http://www.securitytube.net"/>
+	    <outline type="rss" text="CERT Advisories" title="CERT Advisories" xmlUrl="http://seclists.org/rss/cert.rss" htmlUrl="http://seclists.org/#cert"/>
         </outline>
     </body>
 </opml>
